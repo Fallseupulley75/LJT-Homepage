@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024. My research focuses on natural language processing and machine learning.
+Welcome! I am Junteng Liu, a first-year PhD candidate at the HKUST NLP Group, Hong Kong University of Science and Technology (HKUST), supervised by Prof. Junxian He. I received my B.Eng. from Shanghai Jiao Tong University (SJTU) in June 2024, where I was previously advised by Prof. Junxian He. My research focuses on natural language processing and machine learning.
 
 My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 Education
 ======
 * Ph.D. in Computer Science, Hong Kong University of Science and Technology, 2024 – Present
+  * Supervisor: Prof. Junxian He
 * B.Eng., Shanghai Jiao Tong University, 2020 – 2024 (graduated in June 2024)
+  * Previously advised by Prof. Junxian He
 
 Research Experience
 ======
